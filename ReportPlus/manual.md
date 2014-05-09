@@ -15,7 +15,7 @@ The module will update itself automatically - but you will always be informed th
 #GUI
 Like the extension itself, the GUI is currently under development. Please make sure to obtain the latest manual frequently!
 
-![Screenshot of the GUI](http://github.com/Olex2/Extensions/ReportPlus/images/screenshot.png)
+![Screenshot of the GUI](https://raw.githubusercontent.com/Olex2/Extensions/master/ReportPlus/images/screenshot.png)
 ##Output Options
 
 ![Output Options](/images/output_options.png)
